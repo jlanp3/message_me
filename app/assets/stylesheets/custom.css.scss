@@ -1,1 +1,15 @@
 @import 'semantic-ui';
+
+.ui.card,
+.ui.cards>.card {
+  background-color: #e0e0e0;
+}
+
+.ui.placeholder.segment {
+	background-color: #e0e0e0;	
+}
+
+.chatbox {
+	height: 450px;
+}
+
